@@ -1,3 +1,7 @@
+## v 10.1.0 [FORK] (2021/10/26)
+
+- [FEATURE] - scrollWindow Input recreates the scroller on value changge
+
 ## v 10.0.1 (2020/12/09)
 
 - [FIX] - throttle behavior refined - fixed issue #198
